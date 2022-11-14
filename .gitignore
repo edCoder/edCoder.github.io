@@ -1,0 +1,16 @@
+.DS_Store
+
+includes/config.inc.php
+
+admin/upload/*
+
+admin/vendor/*
+
+admin/application/cache/*
+
+admin/application/logs/*
+
+admin/application/config/config.php
+admin/application/config/database.php
+
+projects/*
